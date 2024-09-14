@@ -1,0 +1,15 @@
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.AssemblyInfoInputs.cache
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.AssemblyInfo.cs
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.csproj.CoreCompileInputs.cache
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.sourcelink.json
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/bin/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/bin/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.deps.json
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/bin/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.runtimeconfig.json
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/bin/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.dll
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/bin/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.pdb
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.dll
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-preetimainali.dll
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.pdb
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/mis-221-lab-3-2nd-link-preetimainali.genruntimeconfig.cache
+/Users/preetismacbookair/Documents/mis221/lab/mis-221-lab-3-2nd-link-preetimainali/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-preetimainali.dll
